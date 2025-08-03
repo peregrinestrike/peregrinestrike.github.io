@@ -17,5 +17,3 @@ We find vulnerabilities. We fix them. You stay secure.
 
 ## Contact
 📧 [peregrinestrike@proton.me](mailto:peregrinestrike@proton.me)
-
-Or follow us on SubStack: [@peregrinestrike](https://substack.com/@peregrinestrike)
